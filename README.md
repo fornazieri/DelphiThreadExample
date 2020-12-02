@@ -1,5 +1,5 @@
 # DelphiThreadSample
-### Repositório de inicio ao aprendizado de Thread em Delphi com base em um artigo fornecido pela plataforma DevMedia
+### Repositório de inicio ao aprendizado de Thread em Delphi com base em um artigo fornecido pela plataforma DevMedia, que visa criar um pequeno projeto que seja capaz de identificar se um numero é primo ou não.
 
 #### __Teste__
 1. Para testar, um exemplo simples é digitar um numero grande como 1234567891 e clicar no botão "Calcular" para ser iniciado o calculo. 
