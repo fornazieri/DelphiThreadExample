@@ -1,0 +1,29 @@
+unit U_Principal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TF_Principal = class(TForm)
+    Label1: TLabel;
+    edtNumero: TEdit;
+    btnCalcular: TButton;
+    Label2: TLabel;
+    memoTextoLivre: TMemo;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  F_Principal: TF_Principal;
+
+implementation
+
+{$R *.dfm}
+
+end.

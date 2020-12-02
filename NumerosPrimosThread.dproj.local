@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/02 18:29:05.000.534,=C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/02 18:30:03.000.826,C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\ThreadNumerosPrimos.dproj</Transaction>
+    <Transaction>2020/12/02 18:30:13.000.271,C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\ThreadNumerosPrimos.dproj=C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\NumerosPrimosThread.dproj</Transaction>
+    <Transaction>2020/12/02 18:30:58.000.351,C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Pessoais\Estudos\Delphi\DelphiThreadSample\U_Principal.pas</Transaction>
+    <Transaction>2020/12/02 18:30:58.000.351,C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Pessoais\Estudos\Delphi\DelphiThreadSample\U_Principal.dfm</Transaction>
+    <Transaction>2020/12/02 18:31:02.000.906,C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\NumerosPrimosThread.dproj=D:\Pessoais\Estudos\Delphi\DelphiThreadSample\NumerosPrimosThread.dproj</Transaction>
+    <Transaction>2020/12/02 18:33:20.845,=D:\Pessoais\Estudos\Delphi\DelphiThreadSample\Unit1.pas</Transaction>
+    <Transaction>2020/12/02 18:33:45.906,D:\Pessoais\Estudos\Delphi\DelphiThreadSample\U_CalculoPrimosThread.pas=D:\Pessoais\Estudos\Delphi\DelphiThreadSample\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
