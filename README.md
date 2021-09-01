@@ -1,4 +1,4 @@
-# DelphiThreadExample
+# Delphi Thread Example
 ### Repositório de inicio ao aprendizado de Thread em Delphi com base em um artigo fornecido pela plataforma DevMedia, que visa criar um pequeno projeto que seja capaz de identificar se um numero é primo ou não.
 
 #### __Teste__
